@@ -8,7 +8,7 @@ An employee directory that uses an API to populate a list and search/sort functi
 ![A screenshot of Employee Directory (React)](screenshot1.png)
 
 ## Link to Deployed App
-https://fe
+https://trojanface.github.io/reactemployeedirectory/
 
 ## Installation
 1. Clone project
